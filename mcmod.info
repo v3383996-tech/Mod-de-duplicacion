@@ -1,0 +1,10 @@
+[
+  {
+    "modid": "dupeslot",
+    "name": "Duplicador de Items",
+    "description": "Slot en el inventario para duplicar objetos (de cualquier mod) gastando experiencia.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "authorList": ["Tu nombre"]
+  }
+]
